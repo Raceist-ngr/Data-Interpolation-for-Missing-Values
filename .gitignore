@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+venv/
+.env
+*.csv  # Optional: exclude data if sensitive, but keeping sample_weather_data.csv
+
